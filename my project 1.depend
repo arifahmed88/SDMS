@@ -1,0 +1,851 @@
+# depslib dependency file v1.0
+1449556913 source:c:\users\asus\desktop\my project 1\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448905899 source:c:\users\asus\desktop\my project 1\coordanets.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448986846 source:c:\users\asus\desktop\my project 1\intro table &university name.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449295510 source:c:\users\asus\desktop\my project 1\user name &password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449057594 source:c:\users\asus\desktop\my project 1\for admin.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449002524 source:c:\users\asus\desktop\my project 1\information table.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449004031 source:c:\users\asus\desktop\my project 1\for _student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448905899 source:c:\users\asus\desktop\my project\coordanets.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448979709 source:c:\users\asus\desktop\my project\for admin.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449002524 source:c:\users\asus\desktop\my project\information table.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448986846 source:c:\users\asus\desktop\my project\intro table &university name.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449003998 source:c:\users\asus\desktop\my project\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448986984 source:c:\users\asus\desktop\my project\user name &password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449082245 source:c:\users\asus\desktop\my project 1\for_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449556420 source:c:\users\asus\desktop\my project 1\add_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449046265 source:c:\users\asus\desktop\my project 1\window_clear.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449263884 source:c:\users\asus\desktop\my project 1\search_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449553865 source:c:\users\asus\desktop\my project 1\delete_record.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449061596 source:c:\users\asus\desktop\my project 1\modify_record.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449263884 source:c:\users\asus\desktop\my project 1\modi_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449263376 source:c:\users\asus\desktop\my project 1\for_student_search.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449556420 source:f:\project\my project 1\add_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448905899 source:f:\project\my project 1\coordanets.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451201224 source:f:\project\my project 1\delete_record.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449057594 source:f:\project\my project 1\for admin.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449082245 source:f:\project\my project 1\for_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449263376 source:f:\project\my project 1\for_student_search.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449002524 source:f:\project\my project 1\information table.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448986846 source:f:\project\my project 1\intro table &university name.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449568167 source:f:\project\my project 1\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449263884 source:f:\project\my project 1\modi_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449263884 source:f:\project\my project 1\search_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449984928 source:f:\project\my project 1\user name &password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449046265 source:f:\project\my project 1\window_clear.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1448905899 source:c:\users\asus\desktop\final project\coordanets.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346288 source:c:\users\asus\desktop\final project\delete_record.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451320560 source:c:\users\asus\desktop\final project\for admin.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449082245 source:c:\users\asus\desktop\final project\for_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451362613 source:c:\users\asus\desktop\final project\for_student_search.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449002524 source:c:\users\asus\desktop\final project\information table.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451279830 source:c:\users\asus\desktop\final project\intro table &university name.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451245781 source:c:\users\asus\desktop\final project\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1451347135 source:c:\users\asus\desktop\final project\modi_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451244667 source:c:\users\asus\desktop\final project\search_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451243460 source:c:\users\asus\desktop\final project\user name &password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1449046265 source:c:\users\asus\desktop\final project\window_clear.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451247026 source:c:\users\asus\desktop\final project\add_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451347135 source:c:\users\asus\desktop\final project\admin_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451253172 source:c:\users\asus\desktop\final project\change admin user name and password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451344650 source:c:\users\asus\desktop\final project\add_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346029 source:c:\users\asus\desktop\final project\search_mksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451345310 source:c:\users\asus\desktop\final project\untitled1.c
+
+1451346570 source:c:\users\asus\desktop\final project\delete_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451347446 source:c:\users\asus\desktop\final project\modi_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451362614 source:c:\users\asus\desktop\final project\for _stu _mark.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451344650 source:d:\my work\final project(modi)\add_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460744421 source:d:\my work\final project(modi)\add_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451347135 source:d:\my work\final project(modi)\admin_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451253172 source:d:\my work\final project(modi)\change admin user name and password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1458230807 source:d:\my work\final project(modi)\coordanets.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346570 source:d:\my work\final project(modi)\delete_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460741887 source:d:\my work\final project(modi)\delete_record.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460739873 source:d:\my work\final project(modi)\for _stu _mark.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460740198 source:d:\my work\final project(modi)\for admin.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460739690 source:d:\my work\final project(modi)\for_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451362613 source:d:\my work\final project(modi)\for_student_search.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460738784 source:d:\my work\final project(modi)\information table.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451279830 source:d:\my work\final project(modi)\intro table &university name.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451245781 source:d:\my work\final project(modi)\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1451347446 source:d:\my work\final project(modi)\modi_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460794397 source:d:\my work\final project(modi)\modi_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346029 source:d:\my work\final project(modi)\search_mksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460744535 source:d:\my work\final project(modi)\search_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451345310 source:d:\my work\final project(modi)\untitled1.c
+
+1460792974 source:d:\my work\final project(modi)\user name &password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460741998 source:d:\my work\final project(modi)\window_clear.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1455640821 source:d:\my work\final project(modi)\for_stu_marksheet.c
+
+1460739955 source:d:\my work\final project(modi)\about.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460792995 source:d:\my work\final project(modi)\clear_username_password-window.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460739955 source:f:\my work\final project(modi)\about.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451344650 source:f:\my work\final project(modi)\add_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460744421 source:f:\my work\final project(modi)\add_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451347135 source:f:\my work\final project(modi)\admin_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451253172 source:f:\my work\final project(modi)\change admin user name and password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460792995 source:f:\my work\final project(modi)\clear_username_password-window.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1458230807 source:f:\my work\final project(modi)\coordanets.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346570 source:f:\my work\final project(modi)\delete_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460741887 source:f:\my work\final project(modi)\delete_record.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460739873 source:f:\my work\final project(modi)\for _stu _mark.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460740198 source:f:\my work\final project(modi)\for admin.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1455640821 source:f:\my work\final project(modi)\for_stu_marksheet.c
+
+1460739690 source:f:\my work\final project(modi)\for_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451362613 source:f:\my work\final project(modi)\for_student_search.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460738784 source:f:\my work\final project(modi)\information table.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451279830 source:f:\my work\final project(modi)\intro table &university name.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1468521611 source:f:\my work\final project(modi)\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
+1451347446 source:f:\my work\final project(modi)\modi_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460794397 source:f:\my work\final project(modi)\modi_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346029 source:f:\my work\final project(modi)\search_mksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460744535 source:f:\my work\final project(modi)\search_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451345310 source:f:\my work\final project(modi)\untitled1.c
+
+1460792974 source:f:\my work\final project(modi)\user name &password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460741998 source:f:\my work\final project(modi)\window_clear.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460739955 source:e:\my work\final project(modi)\about.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451344650 source:e:\my work\final project(modi)\add_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460744421 source:e:\my work\final project(modi)\add_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451347135 source:e:\my work\final project(modi)\admin_marksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451253172 source:e:\my work\final project(modi)\change admin user name and password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460792995 source:e:\my work\final project(modi)\clear_username_password-window.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1458230807 source:e:\my work\final project(modi)\coordanets.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346570 source:e:\my work\final project(modi)\delete_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460741887 source:e:\my work\final project(modi)\delete_record.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460739873 source:e:\my work\final project(modi)\for _stu _mark.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460740198 source:e:\my work\final project(modi)\for admin.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1455640821 source:e:\my work\final project(modi)\for_stu_marksheet.c
+
+1460739690 source:e:\my work\final project(modi)\for_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451362613 source:e:\my work\final project(modi)\for_student_search.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460738784 source:e:\my work\final project(modi)\information table.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451279830 source:e:\my work\final project(modi)\intro table &university name.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451347446 source:e:\my work\final project(modi)\modi_mk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460794397 source:e:\my work\final project(modi)\modi_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451346029 source:e:\my work\final project(modi)\search_mksheet.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460744535 source:e:\my work\final project(modi)\search_student.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1451345310 source:e:\my work\final project(modi)\untitled1.c
+
+1460792974 source:e:\my work\final project(modi)\user name &password.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1460741998 source:e:\my work\final project(modi)\window_clear.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+

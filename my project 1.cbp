@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="my project 1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/my project 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/my project 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Untitled1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="about.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="add_marksheet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="add_student.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="admin_marksheet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="change admin user name and password.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clear_username_password-window.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coordanets.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delete_mk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delete_record.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="for _stu _mark.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="for admin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="for_stu_marksheet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="for_student.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="for_student_search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="information table.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="intro table &amp;university name.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modi_mk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modi_student.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="search_mksheet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="search_student.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="user name &amp;password.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="window_clear.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
